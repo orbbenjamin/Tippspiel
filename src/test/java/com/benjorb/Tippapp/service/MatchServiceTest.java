@@ -1,12 +1,10 @@
 package com.benjorb.Tippapp.service;
 
-import com.benjorb.Tippapp.Dto.*;
-import com.benjorb.Tippapp.Model.Gameday;
-import com.benjorb.Tippapp.Model.Match;
-import com.benjorb.Tippapp.Repo.GamedayRepo;
-import com.benjorb.Tippapp.Repo.MatchRepo;
-import com.benjorb.Tippapp.Service.FootballApiService;
-import com.benjorb.Tippapp.Service.MatchService;
+import com.benjorb.Tippapp.dto.*;
+import com.benjorb.Tippapp.model.Gameday;
+import com.benjorb.Tippapp.model.Match;
+import com.benjorb.Tippapp.repo.GamedayRepo;
+import com.benjorb.Tippapp.repo.MatchRepo;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;

@@ -1,12 +1,8 @@
 package com.benjorb.Tippapp.service;
 
-import com.benjorb.Tippapp.Model.Match;
-import com.benjorb.Tippapp.Model.Tipps;
-import com.benjorb.Tippapp.Model.Users;
-import com.benjorb.Tippapp.Service.MatchService;
-import com.benjorb.Tippapp.Service.ScoringService;
-import com.benjorb.Tippapp.Service.TippService;
-import com.benjorb.Tippapp.Service.UserService;
+import com.benjorb.Tippapp.model.Match;
+import com.benjorb.Tippapp.model.Tipps;
+import com.benjorb.Tippapp.model.Users;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

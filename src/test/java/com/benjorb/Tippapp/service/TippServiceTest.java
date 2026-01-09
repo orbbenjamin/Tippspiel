@@ -1,10 +1,9 @@
 package com.benjorb.Tippapp.service;
 
-import com.benjorb.Tippapp.Model.Match;
-import com.benjorb.Tippapp.Model.Tipps;
-import com.benjorb.Tippapp.Model.Users;
-import com.benjorb.Tippapp.Repo.TippRepo;
-import com.benjorb.Tippapp.Service.TippService;
+import com.benjorb.Tippapp.model.Match;
+import com.benjorb.Tippapp.model.Tipps;
+import com.benjorb.Tippapp.model.Users;
+import com.benjorb.Tippapp.repo.TippRepo;
 import jakarta.persistence.EntityNotFoundException;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

@@ -1,10 +1,8 @@
 package com.benjorb.Tippapp.service;
 
-import com.benjorb.Tippapp.Model.Match;
-import com.benjorb.Tippapp.Model.Odds;
-import com.benjorb.Tippapp.Repo.OddRepo;
-import com.benjorb.Tippapp.Service.MatchService;
-import com.benjorb.Tippapp.Service.OddService;
+import com.benjorb.Tippapp.model.Match;
+import com.benjorb.Tippapp.model.Odds;
+import com.benjorb.Tippapp.repo.OddRepo;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

@@ -1,9 +1,7 @@
 package com.benjorb.Tippapp.service;
 
-import com.benjorb.Tippapp.Model.Users;
-import com.benjorb.Tippapp.Repo.UserRepo;
-import com.benjorb.Tippapp.Service.JWTService;
-import com.benjorb.Tippapp.Service.UserService;
+import com.benjorb.Tippapp.model.Users;
+import com.benjorb.Tippapp.repo.UserRepo;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
